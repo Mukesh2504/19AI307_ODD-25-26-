@@ -21,8 +21,8 @@ To write a Java program that accepts an integer input and demonstrates the diffe
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Yuvan Sundar S
-RegisterNumber:  212223040250
+Developed by: MUKESH A
+RegisterNumber:  212223040118
 */
 ```
 
