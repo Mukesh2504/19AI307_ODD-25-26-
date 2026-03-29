@@ -24,8 +24,8 @@ To write a Java program that accepts two strings as input and compares them usin
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: YUVAN SUNDAR S
-RegisterNumber: 212223040250
+Developed by: MUKESH A
+RegisterNumber: 212223040118
 */
 ```
 
